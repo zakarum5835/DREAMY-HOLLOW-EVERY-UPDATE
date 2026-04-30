@@ -1,0 +1,14 @@
+Added Mods & Resource Packs:
+- (Unofficial) Mandala's GUI - Dark Mode Mod Compatibility
+- Create: Copycats+
+- Create: Connected
+- Steam 'n' Rails Neoforge
+- Sparse Structures
+- Client Sort
+- I'm Fast
+- Not Enough Glyphs
+- LambDynamicLights
+- Sodium/Embeddium Extras
+- Updated Mods
+
+Always make a backup of your world.
