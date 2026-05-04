@@ -1,0 +1,6 @@
+- Updated Mods
+- Added Starcatcher
+- Added Eternal Starlight
+- Added FTB Essentials (Forge & Fabric)
+- Added Clavis
+- Removed Client Sort
