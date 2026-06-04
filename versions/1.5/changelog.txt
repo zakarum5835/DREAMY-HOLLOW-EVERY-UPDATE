@@ -1,0 +1,28 @@
+New Mods & Changes
+
+- NeoForge Version updated to 21.1.233 
+- Updated Mods
+- Create Big Cannons: Advanced Technologies
+- Mushroom Quest
+- Ribbits
+- Decocraft Nature
+- Resource Pack Overrides
+- Particle Core
+- FastFurnace
+- FastWorkbench
+- Disabled Some Ars Elemental Structures (Low Performance)
+
+New Quests
+
+- Create
+- Ars Nouveau
+- Hexerei
+
+New Shaders
+
+- MakeUp - Ultra Fast | Shaders
+- Photon Shader
+- Fantasy Shaders Reimagened
+- Sildur's Vibrant Shaders
+
+Always make a backup of your world
