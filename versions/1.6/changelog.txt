@@ -1,0 +1,25 @@
+Fixes & Changes
+- Updated Mods
+- Removed Obscure Tooltips
+- Removed When Dungeons Arise - Forge! (Low Performance)
+- Removed Loot Integrations: When Dungeons Arise & Co
+- Improved Main Menu
+- Disabled Monster Spawner (Quark)
+- Enhanced Tooltips Box for certain items
+- Backported ModernFix 5.27.12 to 5.26.1
+- Backported FastSuite 6.0.7 to 6.0.1
+
+New Mods
+- Added ZakarumTweaks
+- Added Tooltip Overhaul
+- Added Town and Towers
+
+New Quests:
+- Simple Storage
+- Artifacts & Relics
+- Starcatcher
+- Create: Ender Transmission
+- Create: Hypertubes
+- Create: Mechanical Botany
+
+Always make a backup of your world
