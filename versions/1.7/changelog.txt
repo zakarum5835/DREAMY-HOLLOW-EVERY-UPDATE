@@ -1,0 +1,53 @@
+# Improved Overworld world generation, more optimized without lag spikes, fixing timeouts and much more.
+
+Fixes and Changes:
+- Updated Mods
+- Removed Tooltip Overhaul (Replaced)
+- Removed FTB Chunks (NeoForge) (Replaced)
+- Removed Ecologics (Replaced)
+- Removed Let Me Despawn (Replaced)
+- Removed Easy Mob Farm
+- Removed Resource Pack Overrides
+- Removed Better Days
+- Removed CrashExploitFixer
+- Removed Good Ending
+- Removed Not Enough Glyphs
+- Removed Ars Additions
+- Removed Not Enough Crashes (Forge)
+- Removed Adorable Hamster Pets
+- Removed Biolith
+- Improved Ars Nouveau Questline
+- Disabled Ars Nouveau book upon the world creation
+- Moved Jade box under Xaero's Minimap
+
+New Mods:
+- Oh The Biomes We've Gone
+- Legendary Tooltips [Neo/Forge]
+- AllTheLeaks (Memory Leak Fix)
+- [EMF] Entity Model Features [Fabric & Forge]
+- [ETF] Entity Texture Features - [Fabric & Forge]
+- Despawn Tweaks
+- Connectivity
+- Cerulean
+- Colorwheel
+- Disconnect Packet Fix
+- Distraction Free Recipes (EMI / REI / JEI)
+- Krypton Reno
+- Lithium (Fabric/NeoForge)
+- Redirected
+- Sodium Leaf Culling
+- Structure Layout Optimizer
+- TwilightForest Thread Safety Addon
+- Vanillin
+
+New Resource Packs:
+- (Unofficial) Mandala's GUI - Dark Mode Mod Compatibility
+- Fresh Animations: Player Extension
+- Fresh Moves
+- Icon Xaero's
+
+New Quests:
+- Cataclysm
+- Twilight Forest
+
+Always make a backup of your world before update.
