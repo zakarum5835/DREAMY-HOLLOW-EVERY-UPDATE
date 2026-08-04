@@ -1,4 +1,4 @@
-# Improved Overworld world generation, more optimized without lag spikes, fixing timeouts and much more.
+Improved Overworld world generation, more optimized without lag spikes, fixing timeouts and much more.
 
 Fixes and Changes:
 - Updated Mods
