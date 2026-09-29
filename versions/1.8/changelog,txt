@@ -1,0 +1,103 @@
+# Experience Overhauled! - v1.8
+This update revamps everything about the modpack, it adds new balances, reworked quests  and finally added one of the most important questline which is Create: Aeronautics! Also, added new mods while removing some and aiming for more stability.
+
+
+
+CREATE: AERONAUTICS QUESTLINE IS HERE!
+
+  
+HIGHLY RECOMMENDED TO CREATE A NEW WORLD
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Improved Overworld gen
+- Improved Nether gen
+- Improved Twilight Forest gen
+- Improved Main menu
+- Improved Jade box and position
+- Improved Damage Indicators
+- Fixed login timeout when creating or joining a world
+- Fixed a quest in Ars Nouveau Questline
+- Decreased `twilightforest:naga_courtyard` and `twilightforest:lich_tower structure` spawn weight
+- Disabled `quark:forgotten` spawn weight (Quark)
+- Removed Create: Hypertubes Questline
+- Removed Create: Mechanical Botany Questline
+- Removed old Crafting recipes for Fiery Armor Set
+- Removed old Smithing recipes for Ignitium Armor Set
+- Created a Welcome Screen upon joining a world (Welcome Screen)
+- Reworked the entire Questline
+- Reworked Smithing Recipes for Fiery Armor and Ignitium Armor
+
+
+Mods:
+
+- Updated Mods, Crash Assistant, Artifacts, starcatcher, L_Ender 's Cataclysm
+- Added Eating Animation [Neo/Forge]
+- Added Better Advancements
+- Added [Let's Do] Furniture
+- Added Better End Cities Better End
+- Added Stardew Fishing
+- Added Structory
+- Added Accessories
+- Added Accessories Compatibility Layer
+- Added Accessorify
+- Added MouseTweaks x Accessories Fix
+- Added Too Many Entities
+- Added ATMOSPHERICS
+- Added Cat Fighting
+- Added Simple Voice Chat
+- Added Immersive Optimization
+- Added Immersive hotbar
+- Added Shoulder Surfing Reloaded: Camera Fixes & Additions
+- Added Seramicx's Smooth F5
+- Added Nether's Exoticism
+- Added Flerovium
+- Added Welcome Screen (Modpack Utils Series)
+- Added Twilight Treehouses
+- Added Starcatcher's Delight
+- Added Kinetic Hosting Integration
+- Added Explosive Enhancement: Reforged
+- Added Sound Physics Perfected
+- Added TslatEffectsLib
+- Added TslatEntityStatus (TES)
+- Added Inventory Particles
+- Added Pretty Rain
+- Added Cool Rain Reforged
+- Added Cursors Extended
+- Added KubeJS Ars Nouveau
+- Removed Visual Workbench, Crafting Tweaks, DarkSmelting - RPG Smelt Armor Tools Weapons, Create: Diesel Generators, Create: Radars, Create Big Cannons: Advanced Technologies, Create Ore Excavation, Create: Hypertubes, Create Big Cannons, Create: Mechanical Botany, Ritchie's Projectile Library, Integrated Cataclysm, Steam 'n' Rails, [Let's Do] BloomingNature, Weather Refined, Lootr (Forge & NeoForge), Sound Physics Remastered, Immersive Damage Indicators
+
+  
+Quests:
+  
+- Create: Aeronautics
+- Farmer's Delight
+- Paradise Lost
+- Sophisticated Storage
+
+
+Resource Packs:
+
+- Removed Mandala's GUI - Dark mode, (Unofficial) Mandala's GUI - Dark Mode Mod Compatibility
+- Added Eating Animations x Farmer's Delight
+- Added Farmer GUI
+- Added Cubic Sun & Moon
+- Added Modded Omelet - Modern Spawn Eggs
+- Added Simple Lower Grass Sides
+- Added Stardewful Plaques
+- Added Stardew Valley Theme for Jade
+- Added Journalistic FTB Quests+
+- Added Fresh Animations
+- Added (Bee's) Serified Font
+- Added Nerf's Fancy Cursor
+
+
+Shaders:
+
+- Removed Complementary Shaders - Unbound
+- Added Legendary Atmosphere
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
