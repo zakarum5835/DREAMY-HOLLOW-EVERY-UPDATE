@@ -3,14 +3,6 @@ This update revamps everything about the modpack, it adds new balances, reworked
 
 
 
-CREATE: AERONAUTICS QUESTLINE IS HERE!
-
-
-
-HIGHLY RECOMMENDED TO CREATE A NEW WORLD
-
-
-
 Changes and Fixes:
 
 - Improved Performance
@@ -73,7 +65,11 @@ Mods:
 
 
 
+
+
+
 Quests:
+
 
 
 - Create: Aeronautics
