@@ -26,6 +26,7 @@ Mods:
 - Added Item Obliterator (Modpack Utils Series)
 - Added Modern World Creation
 - Added Plushie Buddies
+- Added Necronomicon API
 - Removed Biolith
 
 
