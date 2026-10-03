@@ -1,0 +1,39 @@
+# New Questlines! - v1.9
+This update adds cutie mods and new Questlines, fixing some issues with Easy Villagers and Piglins while going for more stability.
+
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Configured Kinetic Hosting promotion
+- Disabled Uncrafting Table, not working properly (Twilight Forest)
+- Fixed Starcatcher Questline
+- Fixed Trader carryable with Carry On (Easy Villagers)
+- Fixed Barterer carryable with Carry On (Easy Piglins)
+- Villagers are now forbidden entities from Carry On, useful for Easy Villagers mod (Carry On)
+- Piglins are now forbidden entities from Carry On, useful for Easy Piglins mod (Carry On)
+- Created a new Enchanting Apparatus recipe for Peter Griffin Plushie (Plushie Buddies)
+
+
+Mods:
+
+- Updated Starcatcher, Starcatcher's Delight - Let's Do: Kaleidoscope edition
+- Added Legendary Shrines
+- Added Cosmetic Armor Reworked
+- Added Create: Some Assembly Required
+- Added Create Confectionery
+- Added Item Obliterator (Modpack Utils Series)
+- Added Modern World Creation
+- Added Plushie Buddies
+- Removed Biolith
+
+
+Quests:
+
+- Easy Trading
+- Plushies
+- Star Wars Plushies
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
