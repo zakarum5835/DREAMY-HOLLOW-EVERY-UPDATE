@@ -1,0 +1,32 @@
+# Overworld Optimization Update! - v2.1
+This update brings some optimization to the Overworld while adding new mods such as Fauna & Orchestra, Cozy Cafe and many more while aiming for more stability and avoiding unneeded crashes while playing the modpack.
+
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Improved Menu Pause screen
+- Introduced a new intro regarding Fauna & Orchestra upon joining any world (Fauna & Orchestra)
+- Disabled Blazing, Cascading, Flashing and Flourishing Archwood Forests biome, causing performance issues (Ars Elemental)
+- Created a new Shapeless Crafting Recipe where you can restore a different Crafting Table to the Vanilla Style
+- Fixed some Quark features around the Overworld (Quark)
+
+
+Mods:
+
+- Updated Placebo
+- Added Fauna & Orchestra
+- Added Veggies Delight (A Farmer's Delight Add-on)
+- Added Cozy Cafe
+- Added Smarter Farmers (farmers replant)
+- Added Featurify - WorldGen Control
+- Added DynamicFPS
+
+
+Quests:
+
+- Create: Confectionery
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
