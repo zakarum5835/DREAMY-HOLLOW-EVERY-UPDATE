@@ -1,0 +1,42 @@
+# More and more Content! - v2.2
+This update brings some new mods to the modpack while improving the Spawn for any player upon joining in any world, I'm also grateful for <@1112152751963648152> making a specific mod for this pack.
+
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Player will no longer spawn above Trees, water, oceans, lava pool and etc. (Spawn Modifier)
+- Introduced a new combat system with Better Combat, to make the modpack more enjoyable than before
+- Introduced custom UI for every Cataclysm's Boss (GTBC's Cataclysmic Boss UI)
+- Introduced new variant Dogs (Refined Dogs)
+- Disabled Xaero's Notifications after loading the modpack
+- Overhauled Xaero's minimap
+- Restored Fresh Moves for the player, the old one wasn't working properly with Relics and Artifacts equipped in first person
+
+
+Mods:
+
+- Added Dusty Decorations
+- Added Spawn Modifier (leo_san)
+- Added Better Combat [Fabric & Forge]
+- Added Combat Roll [Fabric & Forge]
+- Added GTBC's Cataclysmic Boss UI
+- Added Cataclysmic Combat
+- Added Calypso's Candy Workshop
+
+
+Quests:
+
+- Starcatcher's Delight
+
+
+Resource Packs:
+
+- Updated Farmer GUI
+- Added Refined Dogs
+- Added (Bee's) Fine Armory
+- Removed Fresh Animations: Player Extension
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
