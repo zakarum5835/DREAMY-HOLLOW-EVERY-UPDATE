@@ -1,0 +1,33 @@
+# Animals Update! - v2.3
+This update is made with the intention of adding new mods about animals such as Animalia Exotica which is currently an Hidden Gem on Curseforge and adding more content about animals.
+
+
+
+Changes and Fixes:
+
+- Updated NeoForge from 21.1.233 to 21.1.249
+- Improved Performance
+- Introduced new tabs above the inventory, currently replaced FTB Teams and Quest icons
+- Added compatibility between Better Combat and Fresh Animations: Player Extension
+- You can apply any Armor Trims on Horses and Wolfs
+
+
+Mods:
+
+- Updated Collective, Geckolib
+- Legendary Tabs
+- Added Animalia Exotica
+- Added Animal Feeding Trough [Fabric | Forge | Quilt | NeoForge]
+- Added Animal Armor Trims - Horse & Wolf
+- Added No Animal Tempt Delay
+- Added Explorer's Compass
+- Added Entity Player Compat
+
+
+Resource Packs:
+
+- Added Fresh Animations: Player Extension
+- Removed Fresh Moves
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
