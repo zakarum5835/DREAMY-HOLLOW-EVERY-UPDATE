@@ -22,6 +22,7 @@ Mods:
 - Added No Animal Tempt Delay
 - Added Explorer's Compass
 - Added Entity Player Compat
+- Added MonoLib
 
 
 Resource Packs:
