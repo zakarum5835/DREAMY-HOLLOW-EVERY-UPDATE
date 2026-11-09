@@ -29,7 +29,6 @@ Mods:
 - Added Async Logger
 - Added Ixeris
 - Added Smart Particle
-- Added Resource Pack Overrides
 - Removed BetterEnd: New Dawn, BCLib: New Dawn, WorldWeaver: New Dawn, Amplified Nether, Packet Fixer
 
 
