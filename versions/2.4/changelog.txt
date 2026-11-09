@@ -1,0 +1,41 @@
+# Nether Update! - v2.4
+This update is made with the intention of improving Nether dimension, fixing crashes after entering in its portal, world corruption, not generating chunks properly due of BCLib, WorldWeaver and BetterEnd. It also improves the Nether generation, adding new biomes and new content to the Nether. Sorry for this inconvenience!
+
+
+
+THIS IS A WORLD BREAKING NETHER UPDATE!
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Fixed Nether issue after loading its dimension, it was also causing world and player corruption data
+- Fixed time out while loading Nether dimension in most Servers
+- Fixed chests rendering issue while looking at them (Optimized Block Entities)
+- Fixed an issue with Connectivity, it was causing problems with Packet Fixer
+- Optimized ATMOSPHERICS particles in Nether dimension
+- Player won't spawn anymore on Snow Carpets (Spawn Modifier)
+- Enhanced Xaero's Minimap with a Cozy style resource pack
+- Enhanced Crash Assistant GUI, you will see it if the modpack crashes
+- Enhanced Nether dimension with new mods that adds structures, new biomes and mobs
+
+
+Mods:
+
+- Added Jaden's Nether Expansion
+- Added Hearths
+- Added Nether Trials & Chambers
+- Added Elysium API
+- Added Async Logger
+- Added Ixeris
+- Added Smart Particle
+- Added Resource Pack Overrides
+- Removed BetterEnd: New Dawn, BCLib: New Dawn, WorldWeaver: New Dawn, Amplified Nether, Packet Fixer
+
+
+Resource Packs:
+
+- Added Cozy Xaero's Minimap Frame
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
