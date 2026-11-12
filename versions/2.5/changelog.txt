@@ -30,6 +30,7 @@ Mods:
 - Added Lithostitched
 - Added Trimmed
 - Added Unium
+- Added Blueprint
 - Removed Ender's Delight
 
 
