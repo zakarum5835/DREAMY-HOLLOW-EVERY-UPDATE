@@ -29,6 +29,7 @@ Mods:
 - Added YUNG's Better End Island (NeoForge) [1.20.4 - 1.21.1 ONLY]
 - Added Lithostitched
 - Added Trimmed
+- Added Unium
 - Removed Ender's Delight
 
 
