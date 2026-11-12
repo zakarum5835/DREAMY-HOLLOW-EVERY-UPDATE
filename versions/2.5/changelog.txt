@@ -12,6 +12,7 @@ Changes and Fixes:
 - Introduced new relics
 - Enhanced End dimension with Enderscape and other content mods
 - Fixed Bell textures, not working properly
+- Fixed KubeJS error message upon joining any world
 - Removed Ender's Delight, it was causing crashes while exploring End dimension
 - Updated Cataclysm questline
 - Updated Artifacts & Relics questline
