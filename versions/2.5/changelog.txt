@@ -1,0 +1,40 @@
+# End Upda- Uhm YEAH! - v2.5
+This update is made with the intention of improving End dimension, since the previous patch was exclusively released for the Nether while this one will focus on End dimension as well.
+
+
+THIS IS A WORLD BREAKING END UPDATE!
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Introduced new relics
+- Enhanced End dimension with Enderscape and other content mods
+- Enhanced Farmer's Delight cooking with Hands-On Delight
+- Fixed Bell textures, not working properly
+- Removed Ender's Delight, it was causing crashes while exploring End dimension
+- Updated Cataclysm questline
+- Updated Artifacts & Relics questline
+
+
+Mods:
+
+- Added Enderscape
+- Added Medieval Buildings [End Edition]
+- Added End Villager Outpost
+- Added EnderPack - New Backpack
+- Added Reliquified Twilight Forest
+- Added Reliquified L_Ender 's Cataclysm
+- Added Hands-On Delight
+- Added YUNG's Better End Island (NeoForge) [1.20.4 - 1.21.1 ONLY]
+- Added Lithostitched
+- Added Trimmed
+- Removed Ender's Delight
+
+
+Resource Packs:
+
+- Added Create Style Sophisticated Backpacks
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
