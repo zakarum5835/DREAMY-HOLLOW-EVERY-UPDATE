@@ -19,7 +19,7 @@ Mods:
 - Added Archie's Dinosaurs
 - Added Villages Beyond - New Villages and Villager expansion
 - Added Chunk Sending
-- Removed Inventory Particles, ATMOSPHERICS, Carry On, Clean Swing Through Grass, I'm Fast, Shoulder Surfing Reloaded, Shoulder Surfing Reloaded: Camera Fixes & Additions, Seramicx's Smooth F5, NaN Health Fixer, Max Health Fix
+- Removed Inventory Particles, ATMOSPHERICS, Carry On, Clean Swing Through Grass, I'm Fast, NaN Health Fixer, Max Health Fix
 
 
 ALWAYS MAKE A BACKUP OF YOUR WORLD
