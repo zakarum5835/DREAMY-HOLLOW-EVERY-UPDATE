@@ -1,0 +1,25 @@
+# New Content! - v2.6
+This update brings some new content to the modpack such as new animals, new biomes and new villages while going for more stability.
+
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Introduced new biomes and animals with Archie's Dinosaurs
+- Introduced new villages in Mushroom, Jungle and Cherry biomes
+- Disabled Fauna & Orchestra intro upon joining a world for the first time, was causing performance issues and lag stattering
+- Fixed issue with Inventory Particles, it was causing crashes while loading any world
+- Fixed memory leaks with Carry On
+- Removed Clean Swing Through Grass, there is already Better Combat that adds Swing Through Grass option
+
+
+Mods:
+
+- Added Archie's Dinosaurs
+- Added Villages Beyond - New Villages and Villager expansion
+- Added Chunk Sending
+- Removed Inventory Particles, ATMOSPHERICS, Carry On, Clean Swing Through Grass, I'm Fast, Shoulder Surfing Reloaded, Shoulder Surfing Reloaded: Camera Fixes & Additions, Seramicx's Smooth F5, NaN Health Fixer, Max Health Fix
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
